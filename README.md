@@ -2,7 +2,7 @@
 
 - Hoje, estou iniciando na programação.
 - Estudando para ser um desenvolvedor Full-stack.
-- Aqui abaixo está oque eu estudando no momento.
+- Aqui abaixo está oque eu estudo no momento.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
